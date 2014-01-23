@@ -1,0 +1,43 @@
+
+a  {padding-left:10px;
+	padding-right: 10px; }
+
+a:link {color: #161510 ;}
+a:hover { color: #1F887E;}
+a:visited {color: #B2B39F}
+/* blue gray #2A363B*/
+
+.nav {margin-bottom: 10px;
+	text-align: center;}
+
+body {color: #333333;}
+
+h1 {font-family: Palatino Linotype; 
+	text-transform: uppercase; /* force text to uppercase */
+	margin: 10 2; }
+
+
+img {
+	border-radius: 5px;
+	margin-bottom: 10px;}
+
+
+.headerphoto img {text-align: center; margin-left: auto;
+margin-right: auto;}
+
+.headerarea { border-top: 1px solid white ;
+	border-bottom: 1px solid #333333;/* this is a line below ...soon to be*/
+	margin-bottom: 10px;
+	text-align: center}
+
+
+h2 {text-align: center;}
+
+h4 {text-align: left;}
+
+.blogphoto {float:left;
+width:250px;}
+
+.blogparagraph { position:relative;
+width:100%; clear:left;}
+li {text-i }
